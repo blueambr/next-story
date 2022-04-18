@@ -66,9 +66,9 @@ _NS_ has a pre-commit feature, based on [Husky](https://github.com/typicode/husk
 
 ```
 "lint-staged": {
-  "src/**/*.{js,jsx}": [
-    "pretty-quick --pattern './src/**/*.{js,jsx}'",
-    "eslint './src/**/*.{js,jsx}' --fix"
+  "src/**/*.{js,jsx,ts,tsx}": [
+    "pretty-quick --pattern './src/**/*.{js,jsx,ts,tsx}'",
+    "eslint './src/**/*.{js,jsx,ts,tsx}' --fix"
   ],
   "src/**/*.{css,sass,scss}": [
     "stylelint './src/**/*.{css,sass,scss}' --fix"

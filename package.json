@@ -83,9 +83,9 @@
     "not dead"
   ],
   "lint-staged": {
-    "src/**/*.{js,jsx}": [
-      "pretty-quick --pattern './src/**/*.{js,jsx}'",
-      "eslint './src/**/*.{js,jsx}' --fix"
+    "src/**/*.{js,jsx,ts,tsx}": [
+      "pretty-quick --pattern './src/**/*.{js,jsx,ts,tsx}'",
+      "eslint './src/**/*.{js,jsx,ts,tsx}' --fix"
     ],
     "src/**/*.{css,sass,scss}": [
       "pretty-quick --pattern './src/**/*.{css,sass,scss}'",
