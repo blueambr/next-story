@@ -27,7 +27,7 @@
 5. `git remote add origin https://github.com/USERNAME/REPOSITORY.git`: setting our own repository as the remote origin
 6. `git add .`: adding everything to our first git commit
 7. `git commit -m "feat(init): project start"`: making our first git commit
-8. `npm version minor`: start versioning right away and create the `CHANGELOG.md`
+8. `npm version minor`: start versioning right away and create the `CHANGELOG.md` file
 9. `git branch -M main`: rename the branch
 10. `git push -u origin main`: pushing our first git commit to the `main` branch of our repo
 
@@ -166,7 +166,9 @@ As a final note I want to remind, that it is quite important, nice and useful to
 ## License
 
 Copyright © Vlad Gerasimovich <hotepp@pm.me> (Next Story)
+
 Copyright © Vercel, Inc. (Create Next App)
+
 Copyright © Kadira, Inc. <hello@kadira.io> (Storybook)
 
 Licensed under the ISC license.
