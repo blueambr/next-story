@@ -1,4 +1,4 @@
-# Next Story v.1.0.0
+# Next Story v.1.0.1
 
 > "next": "12.1.5"
 
