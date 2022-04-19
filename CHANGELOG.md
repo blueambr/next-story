@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/hotepp/next-story/compare/v1.0.1...v1.1.0) (2022-04-19)
+
+
+### Bug Fixes
+
+* update README.md ([d211bfe](https://github.com/hotepp/next-story/commit/d211bfe103a3f22ce2fdb99c03fc2b8e499a07c0))
+
+
+### Features
+
+* update styles folder and .stylelintrc ([1554fb2](https://github.com/hotepp/next-story/commit/1554fb278ffd8e143c9c9b6b2d188e0c6d89181a))
+
+
+
 ## [1.0.1](https://github.com/hotepp/next-story/compare/v1.0.0...v1.0.1) (2022-04-18)
 
 
