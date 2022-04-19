@@ -1,5 +1,4 @@
 import * as NextImage from 'next/image';
-import '/src/styles/global/index.scss';
 import '/src/styles/index.scss';
 
 const OriginalNextImage = NextImage.default;
