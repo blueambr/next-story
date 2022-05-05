@@ -1,3 +1,15 @@
+## [1.1.1](https://github.com/hotepp/next-story/compare/v1.1.0...v1.1.1) (2022-05-05)
+
+
+### Bug Fixes
+
+* includes variables usage in plugins; columns styles extend ([06448db](https://github.com/hotepp/next-story/commit/06448dbd2770cae374c8b8d6ef1450a264c38aa6))
+* update dependecies; update a bit of card styling ([b725123](https://github.com/hotepp/next-story/commit/b725123241682debcedb2b044304a1f22d29f626))
+* update README.md ([853fb69](https://github.com/hotepp/next-story/commit/853fb696e9423340b2eb8ae00c7f84e5904bab5e))
+* update storybook packages ([a9e84f6](https://github.com/hotepp/next-story/commit/a9e84f6918394f51703cdb2751d40198803ee1b4))
+
+
+
 # [1.1.0](https://github.com/hotepp/next-story/compare/v1.0.1...v1.1.0) (2022-04-19)
 
 
