@@ -7,6 +7,7 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
   reactStrictMode: true,
+  swcMinify: true,
   webpack: (config) => {
     config.plugins.push(
       new ESLintPlugin({

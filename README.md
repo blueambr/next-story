@@ -1,10 +1,10 @@
-# Next Story v.1.1.1
+# Next Story v.1.2.0
 
-> "next": "12.1.6"
+> "next": "12.2.0"
 
-> "react": "17.0.2"
+> "react": "18.2.0"
 
-> "@storybook/react": "6.4.22"
+> "@storybook/react": "6.5.9"
 
 ### Content
 
@@ -119,47 +119,47 @@ As a final note I want to remind, that it is quite important, nice and useful to
 
 ```
 "dependencies": {
-  "bulma": "^0.9.3",
-  "next": "12.1.6",
+  "bulma": "^0.9.4",
+  "next": "12.2.0",
   "normalize.css": "^8.0.1",
-  "react": "17.0.2",
-  "react-dom": "17.0.2"
+  "react": "18.2.0",
+  "react-dom": "18.2.0"
 },
 "devDependencies": {
-  "@babel/core": "^7.17.10",
-  "@storybook/addon-actions": "^6.4.22",
-  "@storybook/addon-essentials": "^6.4.22",
-  "@storybook/addon-interactions": "^6.4.22",
-  "@storybook/addon-links": "^6.4.22",
-  "@storybook/builder-webpack5": "^6.4.22",
-  "@storybook/manager-webpack5": "^6.4.22",
-  "@storybook/react": "^6.4.22",
-  "@storybook/testing-library": "^0.0.11",
-  "@typescript-eslint/eslint-plugin": "^5.22.0",
-  "@typescript-eslint/parser": "^5.22.0",
+  "@babel/core": "^7.18.6",
+  "@storybook/addon-actions": "^6.5.9",
+  "@storybook/addon-essentials": "^6.5.9",
+  "@storybook/addon-interactions": "^6.5.9",
+  "@storybook/addon-links": "^6.5.9",
+  "@storybook/builder-webpack5": "^6.5.9",
+  "@storybook/manager-webpack5": "^6.5.9",
+  "@storybook/react": "^6.5.9",
+  "@storybook/testing-library": "^0.0.13",
+  "@typescript-eslint/eslint-plugin": "^5.30.5",
+  "@typescript-eslint/parser": "^5.30.5",
   "babel-loader": "^8.2.5",
   "conventional-changelog-cli": "^2.2.2",
   "css-loader": "^6.7.1",
-  "eslint": "^8.14.0",
-  "eslint-config-next": "^12.1.6",
+  "eslint": "^8.19.0",
+  "eslint-config-next": "^12.2.0",
   "eslint-config-prettier": "^8.5.0",
-  "eslint-plugin-prettier": "^4.0.0",
-  "eslint-plugin-storybook": "^0.5.11",
-  "eslint-webpack-plugin": "^3.1.1",
-  "husky": "^7.0.4",
-  "lint-staged": "^12.4.1",
-  "postcss-loader": "^6.2.1",
-  "prettier": "^2.6.2",
+  "eslint-plugin-prettier": "^4.2.1",
+  "eslint-plugin-storybook": "^0.5.13",
+  "eslint-webpack-plugin": "^3.2.0",
+  "husky": "^8.0.1",
+  "lint-staged": "^13.0.3",
+  "postcss-loader": "^7.0.0",
+  "prettier": "^2.7.1",
   "pretty-quick": "^3.1.3",
-  "sass": "^1.51.0",
-  "sass-loader": "^12.6.0",
+  "sass": "^1.53.0",
+  "sass-loader": "^13.0.2",
   "style-loader": "^3.3.1",
-  "stylelint": "^14.8.2",
-  "stylelint-config-standard-scss": "^3.0.0",
+  "stylelint": "^14.9.1",
+  "stylelint-config-standard-scss": "^4.0.0",
   "stylelint-order": "^5.0.0",
-  "stylelint-webpack-plugin": "^3.2.0",
-  "typescript": "^4.6.4",
-  "webpack": "^5.72.0"
+  "stylelint-webpack-plugin": "^3.3.0",
+  "typescript": "^4.7.4",
+  "webpack": "^5.73.0"
 }
 ```
 

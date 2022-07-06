@@ -59,6 +59,7 @@ sw.*
 .pnp.js
 .serverless
 .svn
+.swc
 *.bak
 *.diff
 *.err

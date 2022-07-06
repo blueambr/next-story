@@ -18,11 +18,11 @@ module.exports = {
     });
     config.resolve.alias = {
       ...config.resolve.alias,
-      '/assets': path.resolve(__dirname, '/public/assets'),
-      '@/layout': path.resolve(__dirname, '/src/components/00-layout/index'),
-      '@/elements': path.resolve(__dirname, '/src/components/01-elements/'),
-      '@/modules': path.resolve(__dirname, '/src/components/02-modules/'),
-      '@/sections': path.resolve(__dirname, '/src/components/03-sections/'),
+      '/assets': path.resolve('public', 'assets'),
+      '@/layout': path.resolve('src', 'components', '00-layout', 'index'),
+      '@/elements': path.resolve('src', 'components', '01-elements'),
+      '@/modules': path.resolve('src', 'components', '02-modules'),
+      '@/sections': path.resolve('src', 'components', '03-sections'),
     };
 
     return config;
