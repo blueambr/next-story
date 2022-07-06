@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/hotepp/next-story/compare/1.1.1...1.2.0) (2022-07-06)
+
+
+### Features
+
+* fix win32 sb paths; add swcMinify; update all dependencies ([0dfdb03](https://github.com/hotepp/next-story/commit/0dfdb031551ddfc2a1ebdd9f763a01de49f8ab09))
+
+
+
 ## [1.1.1](https://github.com/hotepp/next-story/compare/v1.1.0...v1.1.1) (2022-05-05)
 
 
